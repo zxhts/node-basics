@@ -1,0 +1,22 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-require-jquery-global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "03-custom-zhaoxianhe": "^1.0.0",
+    "axios": "^0.21.1",
+    "jquery": "^3.6.0",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
